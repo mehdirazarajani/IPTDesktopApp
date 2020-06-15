@@ -1,0 +1,14 @@
+D:\IPT Project\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+D:\IPT Project\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+D:\IPT Project\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+D:\IPT Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csprojAssemblyReference.cache
+D:\IPT Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+D:\IPT Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+D:\IPT Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+D:\IPT Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+D:\IPT Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+D:\IPT Project\DesktopApp\DesktopApp\bin\Debug\RestSharp.dll
+D:\IPT Project\DesktopApp\DesktopApp\bin\Debug\RestSharp.xml
+D:\IPT Project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CopyComplete
+D:\IPT Project\DesktopApp\DesktopApp\bin\Debug\Newtonsoft.Json.dll
+D:\IPT Project\DesktopApp\DesktopApp\bin\Debug\Newtonsoft.Json.xml
